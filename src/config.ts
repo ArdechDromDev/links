@@ -5,4 +5,4 @@ export const TAGLINE = "Rejoins-nous !"
 // Contacts
 export const contact = "Restons en contact"
 export const phone = ""
-export const email = "contact@ardechdromedev.org"
+export const email = "contact@ardechdromdev.org"
