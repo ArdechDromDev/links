@@ -1,4 +1,4 @@
 ---
 icon: twitter
-url: https://twitter.com/ardechdromdev
+url: https://x.com/ardechdromdev
 ---
